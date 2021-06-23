@@ -1,7 +1,7 @@
 
 ![](https://komarev.com/ghpvc/?username=fabi6ferreira&color=006bed)
 
-<h3> :man: &nbsp;About me </h3>
+<h3> :man: &nbsp;##About me## </h3>
 
 <h3> :rocket: &nbsp;Skills </h3>
 
