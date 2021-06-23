@@ -44,8 +44,7 @@
 </a>
 
 <br/>
-
-<h3> **How to find me**</h3> 
+**How to find me**
 
 [![Linkedin: SEU NOME](https://img.shields.io/badge/-fabi6ferreira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabi6f/)](https://www.linkedin.com/in/fabi6f/)
 [![Gmail Badge](https://img.shields.io/badge/-fabi6ferreira@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:fabi6ferreira@gmail.com)
