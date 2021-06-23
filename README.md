@@ -16,11 +16,6 @@
   ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
-**Utilities**
-
-  ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
-  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-
 **DevOps**
 
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
@@ -44,7 +39,8 @@
 </a>
 
 <br/>
-**How to find me**
+
+**How to find me:**
 
 [![Linkedin: SEU NOME](https://img.shields.io/badge/-fabi6ferreira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabi6f/)](https://www.linkedin.com/in/fabi6f/)
 [![Gmail Badge](https://img.shields.io/badge/-fabi6ferreira@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:fabi6ferreira@gmail.com)
