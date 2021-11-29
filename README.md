@@ -13,7 +13,6 @@
   ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
-  ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
 **DevOps**
@@ -22,7 +21,6 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-  ![Travis](https://img.shields.io/badge/-Travis-333333?style=flat&logo=travis)
 
 **Technologies**
 
@@ -44,4 +42,4 @@
 
 [![Linkedin: SEU NOME](https://img.shields.io/badge/-fabi6ferreira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabi6f/)](https://www.linkedin.com/in/fabi6f/)
 [![Gmail Badge](https://img.shields.io/badge/-fabi6ferreira@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:fabi6ferreira@gmail.com)
-[![GitHub SEU NOME]( https://img.shields.io/github/followers/fabi6ferreira?label=follow&style=social)](https://github.com/fabi6ferreira)
+[![GitHub Fábio Ferreira]( https://img.shields.io/github/followers/fabi6ferreira?label=follow&style=social)](https://github.com/fabi6ferreira)
