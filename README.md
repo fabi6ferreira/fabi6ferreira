@@ -42,4 +42,4 @@
 [![Linkedin: Fábio Ferreira](https://img.shields.io/badge/-fabi6ferreira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabi6f/)](https://www.linkedin.com/in/fabi6f/)
 [![Gmail Badge](https://img.shields.io/badge/-fabi6ferreira@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:fabi6ferreira@gmail.com)
 [![GitHub Fábio Ferreira]( https://img.shields.io/github/followers/fabi6ferreira?label=follow&style=social)](https://github.com/fabi6ferreira)
-[![Website](https://img.shields.io/website/PROTOCOL/URLREST.svg)](https://fabi6ferreira.github.io/fabioferreira/)
+[![Website](https://img.icons8.com/material-outlined/50/000000/domain.png)](https://fabi6ferreira.github.io/fabioferreira/)
