@@ -26,7 +26,6 @@
 
 **How to find me:**
 
-[![Linkedin: Fábio Ferreira](https://img.shields.io/badge/-fabi6ferreira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabi6f/)](https://www.linkedin.com/in/fabi6f/)
 [![Gmail Badge](https://img.shields.io/badge/-fabi6ferreira@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:fabi6ferreira@gmail.com)
 [![GitHub Fábio Ferreira]( https://img.shields.io/github/followers/fabi6ferreira?style=social)](https://github.com/fabi6ferreira)
 [![Website](https://img.shields.io/website?up_color=blue&url=https%3A%2F%2Ffabi6ferreira.github.io%2Ffabioferreira%2F)](https://fabi6ferreira.github.io/fabioferreira/)
